@@ -1,0 +1,9 @@
+storage: orm
+orm:
+  backend: sqlite
+  sqlite:
+    user: a
+    password: b
+    db_name: c
+    host: d
+    connect_timeout: 1000
